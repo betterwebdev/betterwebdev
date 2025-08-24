@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @betterwebdev alias BalaTBR alias @invincibleinventor
-- 👀 I’m interested in JS and Python
-- 🌱 I’m currently learning ElectronJS and TailwindCSS
+- 👀 I love using JS (JSPaglu :))
+- 🌱 I’m currently learning AWS and ML Stuff
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Don't Reach Me
 
