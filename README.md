@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @betterwebdev
+- 👋 Hi, I’m @betterwebdev alias BalaTBR alias @invincibleinventor
 - 👀 I’m interested in JS and Python
 - 🌱 I’m currently learning ElectronJS and TailwindCSS
 - 💞️ I’m looking to collaborate on open source projects
